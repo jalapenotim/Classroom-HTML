@@ -1,0 +1,31 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.201.20.0"
+Created = 2025-04-11 15:53:23.241332-05:00
+LastModifiedByAppHost = "2.501.6.0"
+Modified = 2025-07-29 13:05:38.721947-05:00
+CreatedByProjectApp = "1.3801.23.0"
+LastModifiedByProjectApp = "1.4101.18.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{DeviceResolutionSource}
+[]
+
+{ProjectAttributes}
+
+[Attributes]
+Name = "Classroom"
+ThemeId = "dark-theme.css"
+ProjectThemeIds = "dark-theme.css"
+ThemePageColor = "#000000"
+IncludeUnusedAsset = "False"
+OverrideThemeColor = "True"
+SdkId = "CH5:2.15.0"
+ComponentKey = "UiEditor"
+Id = "277512a1-6390-4d7b-a91e-8fd9b702aa2d"
+RuntimeThemeJoin = "0"
+DeviceResolutionIds = "G-L-4KMONIT-2560-1440,D-L-TSW0770-1280-0800,G-L-IPAD000-1080-0810,G-L-IPAIR00-1024-0768,D-L-TSW0560-0640-0360,G-P-IPAD000-0810-1080,G-P-IPAIR00-0768-1024"
+ipId = "08"
+ProjectSchemaVersion = "6"
+

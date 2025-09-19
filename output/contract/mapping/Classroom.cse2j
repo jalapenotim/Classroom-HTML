@@ -1,0 +1,247 @@
+{
+  "name": "Classroom",
+  "timestamp": "2025-08-01T20:15:08.3592533+00:00",
+  "version": "1.0.0.0",
+  "schema_version": 1,
+  "extra_value": "",
+  "signals": {
+    "states": {
+      "boolean": {
+        "1": {
+          "1": "Main.AVMuteButton.Visibility_fb",
+          "2": "Main.Input1Button.Visibility_fb",
+          "3": "Main.Input2Button.Visibility_fb",
+          "4": "Main.Input3Button.Visibility_fb",
+          "5": "Main.Input4Button.Visibility_fb",
+          "6": "MainVisibilityJoin",
+          "7": "Main.AVMuteButton.Enable",
+          "8": "Main.Input1Button.Enable",
+          "9": "Main.Input2Button.Enable",
+          "10": "Main.Input3Button.Enable",
+          "11": "Main.Input4Button.Enable",
+          "12": "Main.VolumeDownButton.Enable",
+          "13": "Main.VolumeMuteButton.Enable",
+          "14": "Main.VolumeUpButton.Enable",
+          "15": "Main.AVMuteButton.Selected",
+          "16": "Main.DisplayOffButton.Selected",
+          "17": "Main.DisplayOnButton.Selected",
+          "18": "Main.Input1Button.Selected",
+          "19": "Main.Input2Button.Selected",
+          "20": "Main.Input3Button.Selected",
+          "21": "Main.Input4Button.Selected",
+          "22": "Main.VolumeMuteButton.Selected"
+        },
+        "2": {
+          "1": "Main.DisplayPoweringOff.Visibility_fb"
+        },
+        "3": {
+          "1": "Main.AirMediaCode.Visibility_fb"
+        },
+        "5": {
+          "1": "Main.DisplayPowerOffConfirm.Visibility_fb"
+        },
+        "6": {
+          "1": "Main.DisplayProcessing.Visibility_fb"
+        },
+        "7": {
+          "1": "Main.DisplayPoweringOn.Visibility_fb"
+        },
+        "8": {
+          "1": "Main.SystemInitializing.Visibility_fb"
+        },
+        "9": {
+          "1": "Main.VacancyAlert.Visibility_fb"
+        },
+        "10": {
+          "1": "ToolsPage.DisplayButton1.Visibility_fb",
+          "2": "ToolsPage.DisplayButton2.Visibility_fb",
+          "3": "ToolsPageVisibilityJoin",
+          "5": "ToolsPage.DisplayButton1.Selected",
+          "6": "ToolsPage.DisplayButton2.Selected",
+          "7": "ToolsPage.PowerOffButtonTools.Selected",
+          "8": "ToolsPage.PowerOnButtonTools.Selected"
+        },
+        "12": {
+          "1": "ToolsPage.ProjectorHours.Visibility_fb"
+        },
+        "13": {
+          "1": "ToolsPage.Occupancy.Visibility_fb",
+          "3": "ToolsPage.Occupancy.OccANDButton.Selected",
+          "4": "ToolsPage.Occupancy.OccButton10Min.Selected",
+          "5": "ToolsPage.Occupancy.OccButton15Min.Selected",
+          "6": "ToolsPage.Occupancy.OccButton2Min.Selected",
+          "7": "ToolsPage.Occupancy.OccButton30Min.Selected",
+          "8": "ToolsPage.Occupancy.OccButton30s.Selected",
+          "9": "ToolsPage.Occupancy.OccButton5Min.Selected",
+          "10": "ToolsPage.Occupancy.OccORButton.Selected",
+          "11": "ToolsPage.Occupancy.OccPIR.Selected",
+          "12": "ToolsPage.Occupancy.OccUSA.Selected",
+          "13": "ToolsPage.Occupancy.OccUSB.Selected"
+        },
+        "14": {
+          "1": "LockedPageVisibilityJoin"
+        }
+      },
+      "numeric": {
+        "1": {
+          "4": "Main.VolumeGauge.LowerTouchfb"
+        },
+        "2": {
+          "4": "Main.DisplayPoweringOff.DisplayPoweringOffGauge.LowerTouchfb"
+        },
+        "5": {
+          "4": "Main.DisplayPowerOffConfirm.DisplayConfirmPowerOffGauge.LowerTouchfb"
+        },
+        "7": {
+          "4": "Main.DisplayPoweringOn.DisplayPoweringOnGauge.LowerTouchfb"
+        },
+        "8": {
+          "4": "Main.SystemInitializing.SystemInitializingGauge.LowerTouchfb"
+        },
+        "9": {
+          "4": "Main.VacancyAlert.VacancyAlertGauge.LowerTouchfb"
+        }
+      },
+      "string": {
+        "1": {
+          "1": "Main.AVMuteButton.IndirectRichText",
+          "2": "Main.Input1Button.IndirectRichText",
+          "3": "Main.Input2Button.IndirectRichText",
+          "4": "Main.Input3Button.IndirectRichText",
+          "5": "Main.Input4Button.IndirectRichText",
+          "6": "Main.RoomNameText.IndirectRichText",
+          "7": "Main.AVMuteButton.Icon",
+          "8": "Main.Input1Button.Icon",
+          "9": "Main.Input2Button.Icon",
+          "10": "Main.Input3Button.Icon",
+          "11": "Main.Input4Button.Icon"
+        },
+        "3": {
+          "1": "Main.AirMediaCode.AirMediaLoginCode.Indirect"
+        },
+        "10": {
+          "1": "ToolsPage.DisplayButton1.IndirectRichText",
+          "2": "ToolsPage.DisplayButton2.IndirectRichText",
+          "3": "ToolsPage.ScreenResolution.Indirect"
+        },
+        "12": {
+          "1": "ToolsPage.ProjectorHours.ProjectorHours.IndirectRichText",
+          "2": "ToolsPage.ProjectorHours.ProjectorHoursText.IndirectRichText"
+        },
+        "13": {
+          "1": "ToolsPage.Occupancy.OccupiedOrVacantText.IndirectRichText"
+        }
+      }
+    },
+    "events": {
+      "boolean": {
+        "Main.AVMuteButton.Press": {
+          "joinId": 1,
+          "smartObjectId": 1
+        },
+        "Main.DisplayOffButton.Press": {
+          "joinId": 2,
+          "smartObjectId": 1
+        },
+        "Main.DisplayOnButton.Press": {
+          "joinId": 3,
+          "smartObjectId": 1
+        },
+        "Main.Input1Button.Press": {
+          "joinId": 4,
+          "smartObjectId": 1
+        },
+        "Main.Input2Button.Press": {
+          "joinId": 5,
+          "smartObjectId": 1
+        },
+        "Main.Input3Button.Press": {
+          "joinId": 6,
+          "smartObjectId": 1
+        },
+        "Main.Input4Button.Press": {
+          "joinId": 7,
+          "smartObjectId": 1
+        },
+        "Main.ToolsButton.Press": {
+          "joinId": 8,
+          "smartObjectId": 1
+        },
+        "Main.VolumeDownButton.Press": {
+          "joinId": 9,
+          "smartObjectId": 1
+        },
+        "Main.VolumeMuteButton.Press": {
+          "joinId": 10,
+          "smartObjectId": 1
+        },
+        "Main.VolumeUpButton.Press": {
+          "joinId": 11,
+          "smartObjectId": 1
+        },
+        "Main.DisplayPowerOffConfirm.DisplayOffCancelButton.Press": {
+          "joinId": 2,
+          "smartObjectId": 5
+        },
+        "Main.DisplayPowerOffConfirm.DisplayOffConfirmButton.Press": {
+          "joinId": 3,
+          "smartObjectId": 5
+        },
+        "ToolsPage.DisplayButton1.Press": {
+          "joinId": 2,
+          "smartObjectId": 10
+        },
+        "ToolsPage.DisplayButton2.Press": {
+          "joinId": 3,
+          "smartObjectId": 10
+        },
+        "ToolsPage.MainPageButton.Press": {
+          "joinId": 4,
+          "smartObjectId": 10
+        },
+        "ToolsPage.PowerOffButtonTools.Press": {
+          "joinId": 5,
+          "smartObjectId": 10
+        },
+        "ToolsPage.PowerOnButtonTools.Press": {
+          "joinId": 6,
+          "smartObjectId": 10
+        },
+        "ToolsPage.Occupancy.OccANDButton.Press": {
+          "joinId": 2,
+          "smartObjectId": 13
+        },
+        "ToolsPage.Occupancy.OccButton10Min.Press": {
+          "joinId": 3,
+          "smartObjectId": 13
+        },
+        "ToolsPage.Occupancy.OccButton15Min.Press": {
+          "joinId": 4,
+          "smartObjectId": 13
+        },
+        "ToolsPage.Occupancy.OccButton2Min.Press": {
+          "joinId": 5,
+          "smartObjectId": 13
+        },
+        "ToolsPage.Occupancy.OccButton30Min.Press": {
+          "joinId": 6,
+          "smartObjectId": 13
+        },
+        "ToolsPage.Occupancy.OccButton30s.Press": {
+          "joinId": 7,
+          "smartObjectId": 13
+        },
+        "ToolsPage.Occupancy.OccButton5Min.Press": {
+          "joinId": 8,
+          "smartObjectId": 13
+        },
+        "ToolsPage.Occupancy.OccORButton.Press": {
+          "joinId": 9,
+          "smartObjectId": 13
+        }
+      },
+      "numeric": {},
+      "string": {}
+    }
+  }
+}

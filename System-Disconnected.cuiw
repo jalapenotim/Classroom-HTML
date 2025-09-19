@@ -1,0 +1,126 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.501.6.0"
+Created = 2025-07-29 14:29:14.846558-05:00
+LastModifiedByAppHost = "2.501.6.0"
+Modified = 2025-07-29 14:29:14.846555-05:00
+CreatedByProjectApp = "1.4101.18.0"
+LastModifiedByProjectApp = "1.4101.18.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+<div categoryname="Widget Components" id="i9l30lupj5" devicesvisited="[&quot;4K Monitor&quot;,&quot;iPad (Portrait), iPad Air (Portrait)&quot;,&quot;iPad (Landscape), iPad Air (Landscape)&quot;,&quot;TSW-560&quot;]" defaultwidth="1280px" defaultheight="800px" class="widget-container"><ch5-image numberofmodes="0" refreshrate="0" customvstheme="custom" assetid="0b435b59-77db-4334-bd3b-0f907b57de9a" id="id7k" componentname="ONULogo" ccid_linksendreceive="True" devicesvisited="[&quot;4K Monitor&quot;,&quot;iPad (Portrait), iPad Air (Portrait)&quot;,&quot;TSW-770&quot;,&quot;iPad (Landscape), iPad Air (Landscape)&quot;,&quot;TSW-560&quot;]" oldid="iokk" allowpositiondatatobesent="false" allowvaluesonmove="false">
+              </ch5-image><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" labelinnerhtml="Control Processor Disconnected" id="il3i" componentname="DisconnectedText" ccid_linksendreceive="True" devicesvisited="[&quot;4K Monitor&quot;,&quot;iPad (Portrait), iPad Air (Portrait)&quot;,&quot;iPad (Landscape), iPad Air (Landscape)&quot;,&quot;TSW-560&quot;]" ccid_themecssset="true" oldid="ijfx" ccid_label="Control Processor Disconnected" ccid_activefont="'Roboto'">
+              </ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" labelinnerhtml="Please Wait" id="iyyc" componentname="PleaseWaitText" ccid_linksendreceive="True" devicesvisited="[&quot;4K Monitor&quot;,&quot;iPad (Portrait), iPad Air (Portrait)&quot;,&quot;iPad (Landscape), iPad Air (Landscape)&quot;,&quot;TSW-560&quot;]" ccid_themecssset="true" oldid="i02tlh5f8j" ccid_label="Please Wait" ccid_activefont="'Roboto'"></ch5-text><ch5-background scale="fill" refreshrate="600" transitioneffect="ease" transitionduration="1s" assetid="0" id="iiio" componentname="Background" ccid_linksendreceive="True" devicesvisited="[&quot;4K Monitor&quot;,&quot;iPad (Portrait), iPad Air (Portrait)&quot;,&quot;TSW-770&quot;,&quot;iPad (Landscape), iPad Air (Landscape)&quot;,&quot;TSW-560&quot;]" imgbackgroundcolor="transparent" backgroundcolor="#000000" componentwasresized="true">
+              </ch5-background></div>
+
+{Css}
+@media (max-width: 99999px){#i9l30lupj5{width:1280px;height:800px;left:0;top:0;position:absolute;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#il3i .ch5-text :not(i):not(svg){font-family:"Roboto";}#iyyc .ch5-text :not(i):not(svg){font-family:"Roboto";}#wrapper{background-color:#ffffff;}#il3i .ch5-text{min-height:10px;min-width:10px;padding:0px;}#iyyc .ch5-text{min-height:10px;min-width:10px;padding:0px;}#iiio{width:100%;height:100%;left:0px;top:0px;position:absolute;z-index:-99;display:block;overflow:hidden;}#id7k{Appearance_border-color:black;--ch5-image--border-color:black;Appearance_object-fit:contain;--ch5-image--object-fit:contain;width:600px;--ch5-image--width:600px;height:400px;--ch5-image--height:400px;display:block;left:340px;top:65px;position:absolute;z-index:3;}#il3i{Label_color:#ffffff;--ch5-text--font-color:#ffffff;Label_font-size:60px;--ch5-text--font-size:60px;width:1280px;--ch5-text--width:1280px;height:79px;--ch5-text--height:79px;display:block;left:0px;top:501px;position:absolute;z-index:2;}#iyyc{Label_color:#ffffff;--ch5-text--font-color:#ffffff;Label_font-size:60px;--ch5-text--font-size:60px;width:1280px;--ch5-text--width:1280px;height:79px;--ch5-text--height:79px;display:block;left:0px;top:591px;position:absolute;z-index:1;}}@media (orientation: landscape) and (max-width: 2561px) and (max-height: 1441px), (orientation: landscape) and (max-width: 2559px){#i9l30lupj5{width:1280px;height:800px;left:0;top:0;position:absolute;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#id7k{width:600px;--ch5-image--width:600px;height:400px;--ch5-image--height:400px;}}@media (orientation: landscape) and (max-width: 1181px) and (max-height: 777px), (orientation: landscape) and (max-width: 1179px){#i9l30lupj5{width:1180px;height:776px;left:0;top:0;position:absolute;}#id7k{left:290px;}#il3i{Label_color:#ffffff;--ch5-text--font-color:#ffffff;Label_font-size:60px;--ch5-text--font-size:60px;left:0px;width:1180px;--ch5-text--width:1180px;}#iyyc{Label_color:#ffffff;--ch5-text--font-color:#ffffff;Label_font-size:60px;--ch5-text--font-size:60px;left:0px;width:1180px;--ch5-text--width:1180px;}}@media (orientation: portrait) and (max-height: 1137px) and (max-width: 821px), (orientation: portrait) and (max-height: 1135px){#i9l30lupj5{width:820px;top:0;left:0;position:absolute;height:1136px;}#id7k{left:110px;top:43px;position:absolute;}#il3i{Label_font-size:50px;--ch5-text--font-size:50px;width:820px;--ch5-text--width:820px;left:0px;top:489px;position:absolute;height:79px;--ch5-text--height:79px;}#iyyc{Label_font-size:50px;--ch5-text--font-size:50px;width:820px;--ch5-text--width:820px;top:558px;left:0px;position:absolute;}}@media (orientation: landscape) and (max-width: 641px) and (max-height: 364px), (orientation: landscape) and (max-width: 639px){#i9l30lupj5{width:640px;top:0;left:0;position:absolute;height:363px;}#id7k{left:181px;top:27px;width:277px;height:185px;}#il3i{width:640px;--ch5-text--width:640px;left:0px;top:214px;Label_font-size:28px;--ch5-text--font-size:28px;custom-normal-font-size:28px;}#iyyc{width:630px;--ch5-text--width:630px;left:5px;top:252px;Label_font-size:28px;--ch5-text--font-size:28px;custom-normal-font-size:28px;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "System-Disconnected"
+PageMode = "absolute"
+Id = "00f55dac-f1aa-4d09-89ab-44980dd6eac0"
+DisplayBackgroundColor = "False"
+
+[[Elements]]
+Type = "widgetContainer"
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Type = "Ch5 Image"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+numberofmodes = "0"
+refreshrate = "0"
+customvstheme = "custom"
+assetid = "0b435b59-77db-4334-bd3b-0f907b57de9a"
+id = "id7k"
+componentName = "ONULogo"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"4K Monitor\",\"iPad (Portrait), iPad Air (Portrait)\",\"TSW-770\",\"iPad (Landscape), iPad Air (Landscape)\",\"TSW-560\"]"
+url = "StaticFiles/277512a1-6390-4d7b-a91e-8fd9b702aa2d/0b435b59-77db-4334-bd3b-0f907b57de9a/054xe201.png"
+oldID = "iokk"
+allowpositiondatatobesent = "false"
+allowvaluesonmove = "false"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+labelinnerhtml = "Control Processor Disconnected"
+id = "il3i"
+componentName = "DisconnectedText"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"4K Monitor\",\"iPad (Portrait), iPad Air (Portrait)\",\"iPad (Landscape), iPad Air (Landscape)\",\"TSW-560\"]"
+ccid_themeCSSSet = "true"
+oldID = "ijfx"
+ccid_Label = "Control Processor Disconnected"
+ccid_ActiveFont = "'Roboto'"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+labelinnerhtml = "Please Wait"
+id = "iyyc"
+componentName = "PleaseWaitText"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"4K Monitor\",\"iPad (Portrait), iPad Air (Portrait)\",\"iPad (Landscape), iPad Air (Landscape)\",\"TSW-560\"]"
+ccid_themeCSSSet = "true"
+oldID = "i02tlh5f8j"
+ccid_Label = "Please Wait"
+ccid_ActiveFont = "'Roboto'"
+[[Elements.Components]]
+Type = "Ch5 Background"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+scale = "fill"
+refreshrate = "600"
+transitioneffect = "ease"
+transitionduration = "1s"
+assetid = "0"
+id = "iiio"
+componentName = "Background"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"4K Monitor\",\"iPad (Portrait), iPad Air (Portrait)\",\"TSW-770\",\"iPad (Landscape), iPad Air (Landscape)\",\"TSW-560\"]"
+imgbackgroundcolor = "transparent"
+backgroundcolor = "#000000"
+componentWasResized = "true"
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+id = "i9l30lupj5"
+devicesVisited = "[\"4K Monitor\",\"iPad (Portrait), iPad Air (Portrait)\",\"iPad (Landscape), iPad Air (Landscape)\",\"TSW-560\"]"
+defaultWidth = "1280px"
+defaultHeight = "800px"
+

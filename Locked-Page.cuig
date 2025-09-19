@@ -1,0 +1,155 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.501.6.0"
+Created = 2025-07-29 13:05:38.743764-05:00
+LastModifiedByAppHost = "2.501.6.0"
+Modified = 2025-07-29 13:05:38.743762-05:00
+CreatedByProjectApp = "1.4101.18.0"
+LastModifiedByProjectApp = "1.4101.18.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+<ch5-template templateid="w00f55dac-f1aa-4d09-89ab-44980dd6eac0" id="ihgn" componentname="System-Disconnected" pd-receivestateshow="Csig.Control_Systems_Offline_fb" devicesvisited="[&quot;4K Monitor&quot;,&quot;iPad (Portrait), iPad Air (Portrait)&quot;,&quot;TSW-770&quot;,&quot;iPad (Landscape), iPad Air (Landscape)&quot;,&quot;TSW-560&quot;]"></ch5-template><ch5-button orientation="horizontal" size="custom" shape="rounded-rectangle" previewstate="selected" type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="true" ccid_imageicontype="iconclass" ccid_linksendreceive="False" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" iconposition="first" tagname="ch5-button" ccid_syncproperties="disabled" ccid_lastsizeselected="regular" ccid_componenttype="button" ccid_ch5type="button" pageflip="0" labelmode="simple" id="i9kl" componentname="Button" ccid_themecssset="true" labelinnerhtml="" iconclass="fas fa-lock" customvstheme="custom" selected="true" assetid="0" ccid_activefont="'Roboto'" devicesvisited="[&quot;4K Monitor&quot;,&quot;iPad (Portrait), iPad Air (Portrait)&quot;,&quot;TSW-770&quot;,&quot;iPad (Landscape), iPad Air (Landscape)&quot;,&quot;TSW-560&quot;]">
+              </ch5-button><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" labelinnerhtml="System Locked" id="ibvv" componentname="System Locked Text" ccid_linksendreceive="True" ccid_themecssset="true" oldid="i9otxqgq6h" ccid_label="System Locked" ccid_activefont="'Roboto'" devicesvisited="[&quot;4K Monitor&quot;,&quot;iPad (Portrait), iPad Air (Portrait)&quot;,&quot;TSW-770&quot;,&quot;iPad (Landscape), iPad Air (Landscape)&quot;,&quot;TSW-560&quot;]">
+              </ch5-text><ch5-background scale="fill" refreshrate="600" transitioneffect="ease" transitionduration="0" assetid="0" id="ipnl" componentname="Background" ccid_linksendreceive="True" imgbackgroundcolor="transparent" backgroundcolor="#000000" componentwasresized="true" devicesvisited="[&quot;4K Monitor&quot;,&quot;iPad (Portrait), iPad Air (Portrait)&quot;,&quot;TSW-770&quot;,&quot;iPad (Landscape), iPad Air (Landscape)&quot;,&quot;TSW-560&quot;]">
+              </ch5-background>
+
+
+
+{Css}
+@media (max-width: 99999px) { #ipnl { width: 2560px; height: 1440px; display: block; z-index: -90; overflow: hidden; position: absolute; left: 0; top: 0 } #ihgn { display: block; left: 0; top: 0; position: absolute; z-index: 4 } #i9kl .ch5-button-child { top: inherit; left: inherit; position: fixed } #i9kl { width: 600px; --ch5-button--regular-width: 600px; height: 600px; --ch5-button--regular-height: 600px; Label_color: rgba(255,255,255,0); --ch5-button--default-label-font-color: rgba(255,255,255,0); Label_font-size: 14px; --ch5-button--regular-font-size: 14px; Label_font-weight: 400; --ch5-button--regular-font-weight: 400; Appearance_border-style: solid; --ch5-button--default-border-style: solid; Appearance_border-color: rgba(0,153,255,0); --ch5-button--default-border-color: rgba(0,153,255,0); Appearance_background-color: rgba(0,153,255,0); --ch5-button--default-background-color: rgba(0,153,255,0); Appearance_border-width: 1px; --ch5-button--default-border-width: 1px; Icon_color: #ffffff; --ch5-button--default-icon-color: #ffffff; Icon_font-size: 500px; --ch5-button--regular-icon-size: 500px; custom-normal-icon-font-size: 750px; Checkbox_color: #ffffff; --ch5-button--default-checkbox-color: #ffffff; Image_width: 21px; --ch5-button--regular-image-width: 21px; Image_height: 21px; --ch5-button--regular-image-height: 21px; pressedAppearance_background-color: rgba(0,153,255,0); --ch5-button--default-pressed-background-color: rgba(0,153,255,0); pressedAppearance_border-color: rgba(0,153,255,0); --ch5-button--default-pressed-border-color: rgba(0,153,255,0); pressedLabel_color: #ffffff; --ch5-button--default-pressed-label-font-color: #ffffff; pressedLabel_font-size: 14px; --ch5-button--regular-pressed-font-size: 14px; pressedLabel_font-weight: 400; --ch5-button--regular-pressed-font-weight: 400; pressedIcon_color: #ffffff; --ch5-button--default-pressed-icon-color: #ffffff; pressedIcon_font-size: 500px; --ch5-button--regular-pressed-icon-size: 500px; custom-pressed-icon-font-size: 500px; pressedCheckbox_color: #ffffff; --ch5-button--default-pressed-checkbox-color: #ffffff; pressedImage_width: 21px; --ch5-button--regular-pressed-image-width: 21px; pressedImage_height: 21px; --ch5-button--regular-pressed-image-height: 21px; selectedAppearance_background-color: rgba(0,153,255,0); --ch5-button--default-selected-background-color: rgba(0,153,255,0); selectedAppearance_border-color: rgba(0,153,255,0); --ch5-button--default-selected-border-color: rgba(0,153,255,0); selectedLabel_color: #ffffff; --ch5-button--default-selected-label-font-color: #ffffff; selectedLabel_font-size: 14px; --ch5-button--regular-selected-font-size: 14px; selectedLabel_font-weight: 400; --ch5-button--regular-selected-font-weight: 400; selectedIcon_color: #ffffff; --ch5-button--default-selected-icon-color: #ffffff; selectedIcon_font-size: 500px; --ch5-button--regular-selected-icon-size: 500px; custom-selected-icon-font-size: 500px; selectedCheckbox_color: #ffffff; --ch5-button--default-selected-checkbox-color: #ffffff; selectedImage_width: 21px; --ch5-button--regular-selected-image-width: 21px; selectedImage_height: 21px; --ch5-button--regular-selected-image-height: 21px; left: 340px; top: 50px; position: absolute; z-index: 3; display: block; buttonDefaultLabel_color: rgba(255,255,255,0); buttonDefaultIcon_font-size: 500px; buttonDefaultPressedIcon_font-size: 600px } #wrapper { background-color: #000000 } #ibvv { display: block; width: 900px; --ch5-text--width: 900px; height: 79px; --ch5-text--height: 79px; left: 190px; top: 637px; position: absolute; z-index: 2; Label_color: #ffffff; --ch5-text--font-color: #ffffff; Label_font-size: 60px; --ch5-text--font-size: 60px } #i9kl .ch5-button :not(i):not(svg) { font-family: "Roboto" } #ibvv .ch5-text :not(i):not(svg) { font-family: "Roboto" } }
+@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px) { #ipnl { width: 100%; height: 100%; z-index: -90; overflow: hidden; position: absolute; left: 0; top: 0; display: block } #ihgn { display: block } #i9kl { height: 600px; --ch5-button--regular-height: 600px; width: 600px; --ch5-button--regular-width: 600px; selectedLabel_color: #ffffff; --ch5-button--default-selected-label-font-color: #ffffff; selectedLabel_font-size: 14px; --ch5-button--regular-selected-font-size: 14px; selectedLabel_font-weight: 400; --ch5-button--regular-selected-font-weight: 400; selectedAppearance_background-color: rgba(0,153,255,0); --ch5-button--default-selected-background-color: rgba(0,153,255,0); selectedAppearance_border-color: rgba(0,153,255,0); --ch5-button--default-selected-border-color: rgba(0,153,255,0); selectedIcon_color: #ffffff; --ch5-button--default-selected-icon-color: #ffffff; selectedIcon_font-size: 500px; --ch5-button--regular-selected-icon-size: 500px; custom-selected-icon-font-size: 500px; pressedCheckbox_color: #ffffff; --ch5-button--default-pressed-checkbox-color: #ffffff; pressedIcon_color: #ffffff; --ch5-button--default-pressed-icon-color: #ffffff; pressedIcon_font-size: 500px; --ch5-button--regular-pressed-icon-size: 500px; custom-pressed-icon-font-size: 500px; pressedImage_width: 21px; --ch5-button--regular-pressed-image-width: 21px; pressedImage_height: 21px; --ch5-button--regular-pressed-image-height: 21px; left: 340px; top: 50px; position: absolute; z-index: 3; display: block; buttonDefaultLabel_color: rgba(255,255,255,0); buttonDefaultIcon_font-size: 500px; buttonDefaultPressedIcon_font-size: 500px; buttonDefaultSelectedIcon_font-size: 500px; selectedImage_width: 21px; --ch5-button--regular-selected-image-width: 21px; selectedImage_height: 21px; --ch5-button--regular-selected-image-height: 21px; selectedCheckbox_color: #ffffff; --ch5-button--default-selected-checkbox-color: #ffffff; Label_color: rgba(255,255,255,0); --ch5-button--default-label-font-color: rgba(255,255,255,0); Label_font-size: 14px; --ch5-button--regular-font-size: 14px; Label_font-weight: 400; --ch5-button--regular-font-weight: 400; pressedAppearance_background-color: rgba(0,153,255,0); --ch5-button--default-pressed-background-color: rgba(0,153,255,0); pressedAppearance_border-color: rgba(0,153,255,0); --ch5-button--default-pressed-border-color: rgba(0,153,255,0); Image_width: 21px; --ch5-button--regular-image-width: 21px; Image_height: 21px; --ch5-button--regular-image-height: 21px; pressedLabel_color: #ffffff; --ch5-button--default-pressed-label-font-color: #ffffff; pressedLabel_font-size: 14px; --ch5-button--regular-pressed-font-size: 14px; pressedLabel_font-weight: 400; --ch5-button--regular-pressed-font-weight: 400; Icon_color: #ffffff; --ch5-button--default-icon-color: #ffffff; Icon_font-size: 500px; --ch5-button--regular-icon-size: 500px; custom-normal-icon-font-size: 500px; Appearance_border-style: solid; --ch5-button--default-border-style: solid; Appearance_border-color: rgba(0,153,255,0); --ch5-button--default-border-color: rgba(0,153,255,0); Appearance_background-color: rgba(0,153,255,0); --ch5-button--default-background-color: rgba(0,153,255,0); Appearance_border-width: 1px; --ch5-button--default-border-width: 1px; Checkbox_color: #ffffff; --ch5-button--default-checkbox-color: #ffffff } #ibvv { Label_color: #ffffff; --ch5-text--font-color: #ffffff; Label_font-size: 60px; --ch5-text--font-size: 60px; Label_text-decoration: none; --ch5-text--text-decoration: none; width: 900px; --ch5-text--width: 900px; height: 79px; --ch5-text--height: 79px; left: 190px; top: 637px; position: absolute; z-index: 2; display: block } }
+@media (orientation: landscape) and (max-width: 1181px) and (max-height: 777px), (orientation: landscape) and (max-width: 1179px) { #ipnl { width: 1180px; height: 776px } #ihgn { display: block } #i9kl { display: block; left: 290px } #ibvv { left: 140px } }
+@media (orientation: portrait) and (max-height: 1137px) and (max-width: 821px), (orientation: portrait) and (max-height: 1135px) { #ipnl { width: 820px; height: 1136px } #ihgn { display: block } #i9kl { left: 110px } #ibvv { left: 60px; width: 700px; --ch5-text--width: 700px } }
+@media (orientation: landscape) and (max-width: 641px) and (max-height: 364px), (orientation: landscape) and (max-width: 639px) { #ipnl { width: 640px; height: 363px } #ihgn { display: block } #i9kl { display: block; left: 175px; top: 7px; position: absolute; width: 290px; height: 290px; --ch5-button--regular-width: 290px; --ch5-button--regular-height: 290px } #ibvv { left: 0px; width: 640px; --ch5-text--width: 640px } }
+
+{PageAttributes}
+
+[Attributes]
+Name = "Locked-Page"
+PageMode = "absolute"
+Id = "f672a095-c03e-4a0e-96fb-99110a38912f"
+StartPage = "False"
+PreloadPage = "True"
+CachePage = "False"
+VisibilityJoin = "VisibilityJoin"
+DisplayBackgroundColor = "False"
+
+[[Elements]]
+Name = ""
+Type = "Ch5 Template"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+templateid = "w00f55dac-f1aa-4d09-89ab-44980dd6eac0"
+id = "ihgn"
+componentName = "System-Disconnected"
+devicesVisited = "[\"4K Monitor\",\"iPad (Portrait), iPad Air (Portrait)\",\"TSW-770\",\"iPad (Landscape), iPad Air (Landscape)\",\"TSW-560\"]"
+pd-receivestateshow = "Csig.Control_Systems_Offline_fb"
+[[Elements]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+orientation = "horizontal"
+size = "custom"
+shape = "rounded-rectangle"
+previewstate = "selected"
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "true"
+ccid_imageIconType = "iconclass"
+ccid_linkSendReceive = "False"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+iconposition = "first"
+tagName = "ch5-button"
+ccid_syncproperties = "disabled"
+ccid_lastSizeSelected = "regular"
+ccid_componenttype = "button"
+ccid_ch5Type = "button"
+pageflip = "0"
+labelmode = "simple"
+id = "i9kl"
+componentName = "Button"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"4K Monitor\",\"iPad (Portrait), iPad Air (Portrait)\",\"TSW-770\",\"iPad (Landscape), iPad Air (Landscape)\",\"TSW-560\"]"
+labelinnerhtml = ""
+iconclass = "fas fa-lock"
+customvstheme = "custom"
+selected = "true"
+assetid = "0"
+ccid_ActiveFont = "'Roboto'"
+[[Elements]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+labelinnerhtml = "System Locked"
+id = "ibvv"
+componentName = "System Locked Text"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"4K Monitor\",\"iPad (Portrait), iPad Air (Portrait)\",\"TSW-770\",\"iPad (Landscape), iPad Air (Landscape)\",\"TSW-560\"]"
+ccid_themeCSSSet = "true"
+oldID = "i9otxqgq6h"
+ccid_Label = "System Locked"
+ccid_ActiveFont = "'Roboto'"
+[[Elements]]
+Name = ""
+Type = "Ch5 Background"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+scale = "fill"
+refreshrate = "600"
+transitioneffect = "ease"
+transitionduration = "0"
+assetid = "0"
+id = "ipnl"
+componentName = "Background"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"4K Monitor\",\"iPad (Portrait), iPad Air (Portrait)\",\"TSW-770\",\"iPad (Landscape), iPad Air (Landscape)\",\"TSW-560\"]"
+imgbackgroundcolor = "transparent"
+backgroundcolor = "#000000"
+componentWasResized = "true"
+
