@@ -1,11 +1,11 @@
 {
   "_fileMetadata": {
     "_schema": "1.0.0.0",
-    "_createdByAppHost": "2.501.6.0",
-    "_created": "2025-09-04T10:10:17.9372451-05:00",
-    "_lastModifiedByAppHost": "2.501.6.0",
+    "_createdByAppHost": "2.601.10.0",
+    "_created": "2025-09-19T14:25:31.0307591-05:00",
+    "_lastModifiedByAppHost": "2.601.10.0",
     "_minimumAppHost": "2.0.0",
-    "_modified": "2025-09-04T10:10:18.5888026-05:00"
+    "_modified": "2025-09-19T14:25:31.4875265-05:00"
   },
   "_solution": {
     "_name": "Classroom",
@@ -13,7 +13,7 @@
       {
         "_name": "Classroom",
         "_filename": "Classroom.cuip",
-        "_datetime": "2025-09-04T15:10:18.5882022Z"
+        "_datetime": "2025-09-19T19:25:31.4871305Z"
       }
     ]
   }
